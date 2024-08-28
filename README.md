@@ -50,12 +50,21 @@
 <div align="center">
   <img src="./imgs/42_badges/phase_onen.png"/>
   <br>
-  <img src="./imgs/42_badges/libftn.png"/>
-  <img src="./imgs/42_badges/ft_printfn.png"/>
-  <img src="./imgs/42_badges/get_next_linen.png"/>
-  <img src="./imgs/42_badges/born2beroote.png"/>
+  <a href="https://github.com/leticia-paixao-wermelinger/my_own_c_library" target="_blank"><img src="./imgs/42_badges/libftn.png"/></a>
+  <a href="#" target="_blank"><img src="./imgs/42_badges/ft_printfn.png"/></a>
+  <a href="#" target="_blank"><img src="./imgs/42_badges/get_next_linen.png"/></a>
+  <a href="#" target="_blank"><img src="./imgs/42_badges/born2berootn.png"/></a>
   <br>
-  <h3> ⚙️ This README is currently under construction. Please check back soon for updates. 🛠️ </h3>
+  <a href="#" target="_blank"><img src="./imgs/42_badges/phase_twon.png"/>
+  <br>
+  <a href="#" target="_blank"><img src="./imgs/42_badges/minitalkn.png"/></a>
+  <a href="#" target="_blank"><img src="./imgs/42_badges/so_long.png"/></a>
+  <a href="#" target="_blank"><img src="./imgs/42_badges/push_swapn.png"/></a>
+  <a href="#" target="_blank"><img src="./imgs/42_badges/philosophersn.png"/></a>
+  <br>
+  <h5> ⚙️  In progress: 🛠️ </h5>
+  <a href="#" target="_blank"><img src="./imgs/42_badges/minishelln.png"/></a>
+<!--  <h3> ⚙️ This README is currently under construction. Please check back soon for updates. 🛠️ </h3> -->
 </div>
 
 ### ✍️ Random Dev Quote
