@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br clear="both">
 
-<img align="right" height="480" src="https://github.com/leticia-paixao-wermelinger/leticia-paixao-wermelinger/blob/main/octocat-1724123792605.png?raw=true"  />
+<img align="right" height="480" src="./imgs/octocat.png"  />
 
 👩🏻‍💻 I'm currently working on developing my own Bash script and building projects in C; <br><br>
 ❓ I'm looking for help with selecting the next programming language to learn and exploring the field of cybersecurity;<br><br>
