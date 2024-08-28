@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br clear="both">
 
-<img align="right" height="480" src="./imgs/octocat.png"  />
+<img align="right" height="500" src="./imgs/octocat.png"  />
 
 👩🏻‍💻 I'm currently working on developing my own Bash script and building projects in C; <br><br>
 ❓ I'm looking for help with selecting the next programming language to learn and exploring the field of cybersecurity;<br><br>
@@ -45,11 +45,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=leticia-paixao-wermelinger&theme=radical&no-frame=true&no-bg=true&margin-w=4" height="150" alt="stats graph"  />
 </div>
 
-<!--## 📓 Software Engineering Projects
+## 📓 Software Engineering Projects
 ![42 School](https://img.shields.io/badge/%7C%20Rio-black?style=for-the-badge&logo=42)
 <div align="center">
-  42 Badges will enter in here
-</div>-->
+  <img src="./imgs/42_badges/phase_onen.png"/>
+  <br>
+  <img src="./imgs/42_badges/libftn.png"/>
+  <img src="./imgs/42_badges/ft_printfn.png"/>
+  <img src="./imgs/42_badges/get_next_linen.png"/>
+  <img src="./imgs/42_badges/born2beroote.png"/>
+  <br>
+  <h3> ⚙️ This README is currently under construction. Please check back soon for updates. 🛠️ </h3>
+</div>
 
 ### ✍️ Random Dev Quote
 <div align="center">
