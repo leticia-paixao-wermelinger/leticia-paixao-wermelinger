@@ -59,9 +59,10 @@
   <a href="https://github.com/leticia-paixao-wermelinger/so_long"><img src="./imgs/42_badges/so_longn.png"/></a>
   <a href="https://github.com/leticia-paixao-wermelinger/push_swap"><img src="./imgs/42_badges/push_swapn.png"/></a>
   <a href="https://github.com/leticia-paixao-wermelinger/Philosophers"><img src="./imgs/42_badges/philosophersn.png"/></a>
-  <br>
-  <h3> ⚙️  Minishell is still in progress: 🛠️ </h3>
   <a href="https://github.com/leticia-paixao-wermelinger/minishell"><img src="./imgs/42_badges/minishelln.png"/></a>
+  <br>
+  <h3> ⚙️  Net Practice is still in progress: 🛠️ </h3>
+  <a href="#"><img src="./imgs/42_badges/netpracticen.png"/></a>
 <!--  <h3> ⚙️ This README is currently under construction. Please check back soon for updates. 🛠️ </h3> -->
 </div>
 <img src="https://img.shields.io/badge/%7C%20Rio-black?style=for-the-badge&logo=42" height="40" alt="42 School" align="right">
