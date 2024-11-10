@@ -17,8 +17,8 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@leticiapwermelinger) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) <!--
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) -->
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=plastic&logo=linux&logoColor=%23FFAA02)
 ![Bash](https://img.shields.io/badge/Bash%20Script-%233C4549?style=plastic&logo=gnubash)
 ![Vim](https://img.shields.io/badge/Vim-%23009930?style=plastic&logo=vim&logoColor=%23CDCDCD%20)
@@ -61,8 +61,9 @@
   <a href="https://github.com/leticia-paixao-wermelinger/Philosophers"><img src="./imgs/42_badges/philosophersn.png"/></a>
   <a href="https://github.com/leticia-paixao-wermelinger/minishell"><img src="./imgs/42_badges/minishelln.png"/></a>
   <br>
-  <h3> ⚙️  Net Practice is still in progress: 🛠️ </h3>
+  <h3> ⚙️  Net Practice and CPP Pool is still in progress: 🛠️ </h3>
   <a href="#"><img src="./imgs/42_badges/netpracticen.png"/></a>
+  <a href="#"><img src="./imgs/42_badges/cppn.png"/></a>
 <!--  <h3> ⚙️ This README is currently under construction. Please check back soon for updates. 🛠️ </h3> -->
 </div>
 <img src="https://img.shields.io/badge/%7C%20Rio-black?style=for-the-badge&logo=42" height="40" alt="42 School" align="right">
