@@ -60,9 +60,9 @@
   <a href="https://github.com/leticia-paixao-wermelinger/push_swap"><img src="./imgs/42_badges/push_swapn.png"/></a>
   <a href="https://github.com/leticia-paixao-wermelinger/Philosophers"><img src="./imgs/42_badges/philosophersn.png"/></a>
   <a href="https://github.com/leticia-paixao-wermelinger/minishell"><img src="./imgs/42_badges/minishelln.png"/></a>
+  <a href="#"><img src="./imgs/42_badges/netpracticen.png"/></a>
   <br>
   <h3> ⚙️  Net Practice and CPP Pool is still in progress: 🛠️ </h3>
-  <a href="#"><img src="./imgs/42_badges/netpracticen.png"/></a>
   <a href="#"><img src="./imgs/42_badges/cppn.png"/></a>
 <!--  <h3> ⚙️ This README is currently under construction. Please check back soon for updates. 🛠️ </h3> -->
 </div>
