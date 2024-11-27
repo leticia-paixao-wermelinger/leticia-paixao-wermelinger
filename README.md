@@ -59,6 +59,7 @@
   <a href="https://github.com/leticia-paixao-wermelinger/so_long"><img src="./imgs/42_badges/so_longn.png"/></a>
   <a href="https://github.com/leticia-paixao-wermelinger/push_swap"><img src="./imgs/42_badges/push_swapn.png"/></a>
   <a href="https://github.com/leticia-paixao-wermelinger/Philosophers"><img src="./imgs/42_badges/philosophersn.png"/></a>
+  <br>
   <a href="https://github.com/leticia-paixao-wermelinger/minishell"><img src="./imgs/42_badges/minishelln.png"/></a>
   <a href="#"><img src="./imgs/42_badges/netpracticen.png"/></a>
   <br>
