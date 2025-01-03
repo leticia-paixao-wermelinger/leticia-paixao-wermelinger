@@ -63,8 +63,9 @@
   <a href="https://github.com/leticia-paixao-wermelinger/minishell"><img src="./imgs/42_badges/minishelln.png"/></a>
   <a href="#"><img src="./imgs/42_badges/netpracticen.png"/></a>
   <br>
-  <h3> ⚙️  CPP Pool is still in progress: 🛠️ </h3>
-  <a href="#"><img src="./imgs/42_badges/cppn.png"/></a>
+  <h3> ⚙️  CPP Pool and Cub3d are still in progress: 🛠️ </h3>
+  <a href="https://github.com/leticia-paixao-wermelinger/cpp_exercices"><img src="./imgs/42_badges/cppn.png"/></a>
+  <a href="https://github.com/luaraggio/Cub3d"><img src="./imgs/42_badges/cub3dn.png"/></a>
 <!--  <h3> ⚙️ This README is currently under construction. Please check back soon for updates. 🛠️ </h3> -->
 </div>
 <img src="https://img.shields.io/badge/%7C%20Rio-black?style=for-the-badge&logo=42" height="40" alt="42 School" align="right">
