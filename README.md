@@ -34,9 +34,6 @@
 ![Django](https://img.shields.io/badge/Django-%23092E20?style=plastic&logo=Django&logoColor=White&link=https%3A%2F%2Flogospng.org%2Fwp-content%2Fuploads%2Fpython.png)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=plastic&logo=Pandas&logoColor=yellow&link=https%3A%2F%2Flogospng.org%2Fwp-content%2Fuploads%2Fpython.png)
 ![Static Badge](https://img.shields.io/badge/MongoDB-grey?style=plastic&logo=MongoDB&logoColor=%2347A248&link=https%3A%2F%2Flogospng.org%2Fwp-content%2Fuploads%2Fpython.png)
-<!--
-
--->
 <br><br>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
