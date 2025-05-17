@@ -72,7 +72,7 @@
   <a href="https://github.com/leticia-paixao-wermelinger/Philosophers"><img src="./imgs/42_badges/philosophersn.png"/></a>
   <a href="https://github.com/leticia-paixao-wermelinger/minishell"><img src="./imgs/42_badges/minishelln.png"/></a>
   <a href="#"><img src="./imgs/42_badges/netpracticen.png"/></a>
-  <a href="https://github.com/luaraggio/Cub3d"><img src="./imgs/42_badges/cub3dn.png"/></a>
+  <a href="https://github.com/leticia-paixao-wermelinger/Cub3D"><img src="./imgs/42_badges/cub3dn.png"/></a>
   <br>
   <a href="#"><img src="./imgs/42_badges/phase_threen.png"/></a>
   <br>
