@@ -79,7 +79,7 @@
   <a href="https://github.com/leticia-paixao-wermelinger/cpp_exercices"><img src="./imgs/42_badges/cppn.png"/></a>
   <a href="https://github.com/leticia-paixao-wermelinger/inception"><img src="./imgs/42_badges/inceptionn.png"/></a>
   <h3> ⚙️  IRC is still in progress: 🛠️ </h3>
-  <a href="#"><img src="./imgs/42_badges/irc.png"/></a>
+  <a href="https://github.com/JuliaParnahyba/ft_irc"><img src="./imgs/42_badges/irc.png"/></a>
   <!--
   <a href="#"><img src="./imgs/42_badges/ft_transcendencen.png"/></a>
   -->
