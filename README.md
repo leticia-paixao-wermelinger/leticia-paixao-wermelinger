@@ -78,15 +78,15 @@
   <br>
   <a href="https://github.com/leticia-paixao-wermelinger/cpp_exercices"><img src="./imgs/42_badges/cppn.png"/></a>
   <a href="https://github.com/leticia-paixao-wermelinger/inception"><img src="./imgs/42_badges/inceptionn.png"/></a>
-  <h3> ⚙️  IRC is still in progress: 🛠️ </h3>
+  <h3> ⚙️  IRC is being refactored: 🛠️ </h3>
   <a href="https://github.com/JuliaParnahyba/ft_irc"><img src="./imgs/42_badges/irc.png"/></a>
-  <!--
+  <h3> ⚙️  Transcendence is still in progress: 🛠️ </h3>
   <a href="#"><img src="./imgs/42_badges/ft_transcendencen.png"/></a>
-  -->
+  
 <!--  <h3> ⚙️ This README is currently under construction. Please check back soon for updates. 🛠️ </h3> -->
 </div>
-<img src="https://img.shields.io/badge/%7C%20Rio-black?style=for-the-badge&logo=42" height="40" alt="42 School" align="right">
 
+<img src="https://img.shields.io/badge/%7C%20Rio-black?style=for-the-badge&logo=42" height="40" alt="42 School" align="right">
 <!--![42 School](https://img.shields.io/badge/%7C%20Rio-black?style=for-the-badge&logo=42)-->
 
 ### ✍️ Random Dev Quote
