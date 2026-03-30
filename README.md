@@ -2,7 +2,7 @@
 <br clear="both">
 <img align="right" height="350" src="./imgs/octocat.png"  />
 
-👩🏻‍💻 I'm currently working on the study of OOP, with C++ and Java; <br><br>
+👩🏻‍💻 I'm currently working on AI, creating chats and Agents; <br><br>
 ❓ I'm looking for help exploring the field of cybersecurity;<br><br>
 🇨 Ask me about switching careers from Cultural Production to Software Engineering, or my experience studying at 42|Rio;<br><br>
 🎤 In my free time, I enjoy listening to music and dancing, which helps me unwind and stay creative;<br><br>
@@ -20,7 +20,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB?style=plastic&logo=python&logoColor=yellow&link=https%3A%2F%2Flogospng.org%2Fwp-content%2Fuploads%2Fpython.png)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)
+<!-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white) -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
@@ -31,8 +31,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=plastic&logo=Docker&logoColor=white&link=https%3A%2F%2Flogospng.org%2Fwp-content%2Fuploads%2Fpython.png)
-![Django](https://img.shields.io/badge/Django-%23092E20?style=plastic&logo=Django&logoColor=White&link=https%3A%2F%2Flogospng.org%2Fwp-content%2Fuploads%2Fpython.png)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=plastic&logo=Pandas&logoColor=yellow&link=https%3A%2F%2Flogospng.org%2Fwp-content%2Fuploads%2Fpython.png)
+<!-- ![Django](https://img.shields.io/badge/Django-%23092E20?style=plastic&logo=Django&logoColor=White&link=https%3A%2F%2Flogospng.org%2Fwp-content%2Fuploads%2Fpython.png) -->
+<!-- ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=plastic&logo=Pandas&logoColor=yellow&link=https%3A%2F%2Flogospng.org%2Fwp-content%2Fuploads%2Fpython.png) -->
 ![Static Badge](https://img.shields.io/badge/MongoDB-grey?style=plastic&logo=MongoDB&logoColor=%2347A248&link=https%3A%2F%2Flogospng.org%2Fwp-content%2Fuploads%2Fpython.png)
 <br><br>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
