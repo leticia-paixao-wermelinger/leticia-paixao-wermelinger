@@ -81,7 +81,7 @@
   <h3> ⚙️  IRC is being refactored: 🛠️ </h3>
   <a href="https://github.com/JuliaParnahyba/ft_irc"><img src="./imgs/42_badges/irc.png"/></a>
   <h3> ⚙️  Transcendence is still in progress: 🛠️ </h3>
-  <a href="#"><img src="./imgs/42_badges/ft_transcendencen.png"/></a>
+  <a href="https://github.com/flpdorea/apoiai"><img src="./imgs/42_badges/ft_transcendencen.png"/></a>
   
 <!--  <h3> ⚙️ This README is currently under construction. Please check back soon for updates. 🛠️ </h3> -->
 </div>
