@@ -78,10 +78,9 @@
   <br>
   <a href="https://github.com/leticia-paixao-wermelinger/cpp_exercices"><img src="./imgs/42_badges/cppn.png"/></a>
   <a href="https://github.com/leticia-paixao-wermelinger/inception"><img src="./imgs/42_badges/inceptionn.png"/></a>
+  <a href="[https://github.com/flpdorea/ft_transcendence](https://github.com/leticia-paixao-wermelinger/Apoiai)"><img src="./imgs/42_badges/ft_transcendencen.png"/></a>
   <h3> ⚙️  IRC is being refactored: 🛠️ </h3>
   <a href="https://github.com/JuliaParnahyba/ft_irc"><img src="./imgs/42_badges/irc.png"/></a>
-  <h3> ⚙️  Transcendence is still in progress: 🛠️ </h3>
-  <a href="https://github.com/flpdorea/ft_transcendence"><img src="./imgs/42_badges/ft_transcendencen.png"/></a>
   
 <!--  <h3> ⚙️ This README is currently under construction. Please check back soon for updates. 🛠️ </h3> -->
 </div>
