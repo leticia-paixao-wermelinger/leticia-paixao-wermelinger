@@ -54,11 +54,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=leticia-paixao-wermelinger&theme=radical&no-frame=true&no-bg=true&margin-w=4" height="150" alt="stats graph"  />
 </div>
 
-## 🎓 42 | Rio — Common Core
-
-<p align="center">
-  <strong>Common Core completed ✅</strong>
-</p>
+## 🎓 42 | Rio — Common Core Completed ✅
 
 <div align="center">
   <img src="./imgs/42_badges/phase_onen.png"/>
