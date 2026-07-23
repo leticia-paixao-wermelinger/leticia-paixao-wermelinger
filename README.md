@@ -54,7 +54,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=leticia-paixao-wermelinger&theme=radical&no-frame=true&no-bg=true&margin-w=4" height="150" alt="stats graph"  />
 </div>
 
-## 📓 Software Engineering Projects
+## 🎓 42 | Rio — Common Core
+
+<p align="center">
+  <strong>Common Core completed ✅</strong>
+</p>
+
 <div align="center">
   <img src="./imgs/42_badges/phase_onen.png"/>
   <br>
@@ -80,20 +85,24 @@
   <a href="https://github.com/leticia-paixao-wermelinger/inception"><img src="./imgs/42_badges/inceptionn.png"/></a>
   <a href="[https://github.com/flpdorea/ft_transcendence](https://github.com/leticia-paixao-wermelinger/Apoiai)"><img src="./imgs/42_badges/ft_transcendencen.png"/></a>
   <h3> ⚙️  IRC is being refactored: 🛠️ </h3>
-  <a href="https://github.com/JuliaParnahyba/ft_irc"><img src="./imgs/42_badges/irc.png"/></a>
-  
-<!--  <h3> ⚙️ This README is currently under construction. Please check back soon for updates. 🛠️ </h3> -->
+  <a href="https://github.com/JuliaParnahyba/ft_irc"><img src="./imgs/42_badges/irc.png"/></a>  
 </div>
 
 <img src="https://img.shields.io/badge/%7C%20Rio-black?style=for-the-badge&logo=42" height="40" alt="42 School" align="right">
-<!--![42 School](https://img.shields.io/badge/%7C%20Rio-black?style=for-the-badge&logo=42)-->
+
+<!-- ## 🚀 42 | Rio — Specialization
+
+<p align="center">
+  Projects developed after completing the 42 Common Core,
+  focused on advanced software engineering and specialized technologies.
+</p> -->
 
 ### ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" height="400" alt="stats graph"  />
 </div>
 
-<!--### 🔝 Top Contributed Repo
+<!-- ### 🔝 Top Contributed Repo
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=leticia-paixao-wermelinger&limit=5&theme=radical&combine_all_yearly_contributions=true" height="150" alt="stats graph"  />
 </div>-->
